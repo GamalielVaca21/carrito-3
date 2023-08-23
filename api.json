@@ -1,0 +1,87 @@
+[
+
+    {
+        "precio": 15,
+        "id": 1,
+        "title": "Snicker's",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/sni.jpg"
+    },
+
+    {
+        "precio": 20,
+        "id": 2,
+        "title": "Mamut",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/mam.jpg"
+    },
+
+    {
+        "precio": 25,
+        "id": 3,
+        "title": "Doritos",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/dor.png"
+    },
+
+    {
+        "precio": 10,
+        "id": 4,
+        "title": "Duvalin",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/duv.png"
+    },
+
+    {
+        "precio": 20,
+        "id": 5,
+        "title": "Crunch",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/cru.jpg"
+    },
+
+    {
+        "precio": 10,
+        "id": 6,
+        "title": "Mars",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/mar.jpg"
+    },
+
+    {
+        "precio": 20,
+        "id": 7,
+        "title": "M&M's",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/mm.jpg"
+    },
+
+    {
+        "precio": 30,
+        "id": 8,
+        "title": "Palomitas",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/pop.jpg"
+    },
+
+    {
+        "precio": 20,
+        "id": 9,
+        "title": "Pringles",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/pri.jpg"
+    },
+
+    {
+        "precio": 15,
+        "id": 10,
+        "title": "Reese's",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/ree.jpg"
+    },
+
+    {
+        "precio": 15,
+        "id": 11,
+        "title": "Almond Joy",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/alm.png"
+    },
+
+    {
+        "precio": 15,
+        "id": 12,
+        "title": "Hershey's",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/her.jpg"
+    }
+
+]
